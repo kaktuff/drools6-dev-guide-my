@@ -38,6 +38,12 @@
       <artifactId>drools-compiler</artifactId>
     </dependency>
 
+    <dependency>
+      <groupId>org.drools.devguide</groupId>
+      <artifactId>model</artifactId>
+      <type>jar</type>
+    </dependency>
+
   </dependencies>
 
 </project>
